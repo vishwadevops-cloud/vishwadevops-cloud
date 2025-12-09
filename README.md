@@ -45,17 +45,17 @@ A scalable event-driven architecture for centralized log monitoring and failure 
 
 ## 📌 Pinned Project
 <p align="center">
-  <a href="https://github.com/VISHWA-SANTHI/AWS-log-monitoring-project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWA-SANTHI&repo=AWS-log-monitoring-project&theme=tokyonight" />
+  <a href="https://github.com/VISHWA-SANTHI/aws-log-monitoring-project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWA-SANTHI&repo=aws-log-monitoring-project&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VISHWA-SANTHI/AWS-log-monitoring-project" target="_blank">
+  <a href="https://github.com/VISHWA-SANTHI/aws-log-monitoring-project" target="_blank">
     🔗 <strong>View Repository</strong>
   </a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/VISHWA-SANTHI/AWS-log-monitoring-project/tree/main/docs" target="_blank">
+  <a href="https://github.com/VISHWA-SANTHI/aws-log-monitoring-project/tree/main/docs" target="_blank">
     📘 <strong>View Documentation</strong>
   </a>
 </p>
