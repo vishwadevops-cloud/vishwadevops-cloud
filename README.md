@@ -27,8 +27,8 @@
 
 ### 📊 1 — GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-SANTHI&theme=tokyonight&show_icons=true&hide_border=true&raw=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight&hide_border=true&raw=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-SANTHI&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 🟣 3 — 3D Contribution Chart
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/profile-3d-contrib/profile-night-green.svg?raw=true" />
+  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/profile-3d-contrib/profile-night-green.svg" width="700" />
 </p>
 
 ---
