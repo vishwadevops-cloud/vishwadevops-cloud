@@ -79,9 +79,9 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
   <br><br>
   <img src="https://img.shields.io/badge/⭐%20NEXT%20GOAL-100%20PROFILE%20VISITS-1abc9c?style=for-the-badge" />
 
-  <!-- Neon Pulse Animation (fixed) -->
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=2500&pause=500&color=22FF8AFF&center=true&vCenter=true&width=650&lines=You+are+awesome+for+stopping+by!+💚;Your+visit+keeps+my+GitHub+growing!+🚀;Have+a+great+day+ahead!+✨" />
+ <!-- Neon Pulse Animation (working version) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=2500&pause=500&color=22FF8AFF&center=true&vCenter=true&width=700&lines=You+are+awesome+for+stopping+by!+💚;Your+visit+keeps+my+GitHub+growing!+🚀;Have+a+great+day+ahead!+✨" />
 
   <!-- Bottom Wave Outro -->
   <br>
