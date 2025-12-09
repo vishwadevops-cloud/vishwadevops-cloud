@@ -68,8 +68,6 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 ## 📍 Visitor Counter
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=header&text=Thanks%20for%20visiting%20💚&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
-
   <!-- Live Counter -->
   <br><br>
   <img src="https://api.visitorbadge.io/api/visitors?path=VISHWA-SANTHI&label=PROFILE+VIEWS&labelColor=%2322c55e&countColor=%23ffffff&style=for-the-badge" />
