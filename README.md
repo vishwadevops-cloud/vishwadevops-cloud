@@ -132,22 +132,22 @@ AWS & DevOps Engineer from Bengaluru, India with hands-on experience in CI/CD au
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-SANTHI&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-SANTHI&show_icons=true&theme=dark&rank_icon=github&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=dark&border_radius=10" height="165" />
 </p>
 
 ---
 
 ## 🏆 Github Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 ## 📍 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VISHWA-SANTHI&label=Profile+Views&color=blue&style=plastic" />
+  <img src="https://profile-counter.glitch.me/VISHWA-SANTHI/count.svg" />
 </p>
 
 ---
