@@ -68,8 +68,8 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 ## 📍 Visitor Counter
 <p align="center">
 
-  <!-- Animated heading (Fixed) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=22C55EFF&center=true&vCenter=true&width=550&lines=Tracking+live+visitors+on+my+profile...;Thanks+for+visiting+💚;You+make+my+GitHub+stronger+every+day+🚀" />
+  <!-- Animated Header (Fixed) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=110&section=header&text=Thanks+for+visiting+💚&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 
   <!-- Live Counter -->
   <br><br>
