@@ -61,9 +61,9 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 ## 🐍 Contribution Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/github-snake.svg" />
 </picture>
 
 ---
