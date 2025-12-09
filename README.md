@@ -27,19 +27,62 @@
 
 ---
 
-## 📌 Featured Project
-### 🚨 AWS Event-Driven Log Monitoring & Alerting System
-A scalable event-driven architecture for centralized log monitoring and failure notifications on AWS.
+## 🚨 Featured DevOps Project — AWS Log Monitoring & Alerting System
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/aws-log-monitoring-project/main/Alarm-Graph.png" width="85%" alt="Project Architecture"/>
+</p>
+
+### 🔎 Overview
+A fully automated **event-driven log monitoring & alerting pipeline** on AWS that detects failures, generates real-time alarms, and sends notification alerts — without manual monitoring.
+
+### 🧰 Tech Stack & AWS Services Used
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-5A2DFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SNS-CB3837?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+---
+
+### ⚙ Project Highlights
 | Feature | Description |
 |--------|-------------|
-| 🔍 Real-time monitoring | EC2 → CloudWatch log streaming |
-| ⚠ Automated detection | Alarms triggered by ERROR patterns |
-| 🚨 Instant alerting | SNS email notifications |
-| 🐍 Failure simulation | Python log generator |
-| 💾 Cost optimization | S3 Lifecycle → Glacier archival |
+| 🔍 Real-time Log Streaming | Application logs from EC2 pushed to CloudWatch |
+| ⚠ Error Detection | Metric Filters detect keywords like `ERROR` |
+| 🚨 Instant Alerting | SNS sends email notifications for failures |
+| 🐍 Failure Simulation | Python log generator used for stress-testing |
+| 💾 Cost Optimization | S3 Lifecycle → Glacier archival for old logs |
 
-🔗 Repository: **https://github.com/VISHWA-SANTHI**
+---
+
+### 📸 Output Screenshots
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/aws-log-monitoring-project/main/Live-Logs.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/aws-log-monitoring-project/main/Email-Alert.png" width="45%"/>
+</p>
+
+---
+
+### 🔗 Project Links
+<p align="center">
+  <a href="https://github.com/VISHWA-SANTHI/aws-log-monitoring-project" target="_blank"><b>🔗 View Repository</b></a> &nbsp;|&nbsp;
+  <a href="https://github.com/VISHWA-SANTHI/aws-log-monitoring-project/tree/main/docs" target="_blank"><b>📘 Documentation</b></a> &nbsp;|&nbsp;
+  <a href="https://github.com/VISHWA-SANTHI/aws-log-monitoring-project/blob/main/setup.sh" target="_blank"><b>⚡ Auto Deployment Script</b></a>
+</p>
+
+---
+
+### 💡 Why This Project Matters
+✔ Eliminates manual log checking  
+✔ Reduces response time during failures  
+✔ Demonstrates **AWS + DevOps + Automation** skills  
+✔ Includes **monitoring, alerting, scripting & cost optimization**
 
 ---
 
