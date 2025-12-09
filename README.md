@@ -67,7 +67,7 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 
 ## 📍 Visitor Count
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=VISHWA-SANTHI&style=glass&countColor=%23ffffff&labelColor=%2322c55e" />
 </p>
 
 ---
