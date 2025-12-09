@@ -67,10 +67,18 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 
 ## 📍 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VISHWA-SANTHI&style=flat-square&color=22c55e" />
+
+  <!-- Animated heading -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=800&color=22C55EFF&center=true&vCenter=true&width=650&lines=Tracking+live+visits...;Every+visit+makes+my+profile+stronger!;Thank+you+for+stopping+by+💚" />
+
+  <!-- Working Live Visitor Count -->
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=25&color=22c55e&center=true&vCenter=true&width=500&lines=You+are+visitor+number...;Loading+Counter..." />
-  <img src="https://profile-counter.glitch.me/VISHWA-SANTHI/count.svg" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=VISHWA-SANTHI&label=Profile+Views&labelColor=%2322c55e&countColor=%23ffffff&style=for-the-badge" />
+  <br><br>
+
+  <!-- Milestones -->
+  <img src="https://img.shields.io/badge/⭐%20Next%20Goal-100%20Profile%20Visits-1abc9c?style=for-the-badge" />
+
 </p>
 
 ---
