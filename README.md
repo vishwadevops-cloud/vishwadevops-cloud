@@ -51,8 +51,8 @@ AWS & DevOps Engineer from Bengaluru, India with hands-on experience in CI/CD au
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrkoware.vercel.app/api?username=VISHWA-SANTHI&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-git-masterrkoware.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VISHWA-SANTHI&theme=tokyonight&show_icons=true&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ---
@@ -73,8 +73,9 @@ AWS & DevOps Engineer from Bengaluru, India with hands-on experience in CI/CD au
 
 ### 🏆 Trophy Wall
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=tokyonight&margin-w=8" />
+  <img src="https://github-profile-trophy-api.kodluyoruz.dev/?username=VISHWA-SANTHI&theme=tokyonight&margin-w=8" />
 </p>
+
 
 ---
 
