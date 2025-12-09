@@ -58,13 +58,6 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 
 ---
 
-## 🏆 Trophy Wall
-<p align="center">
-  <img src="https://github-profile-trophy-api.kodluyoruz.dev/?username=VISHWA-SANTHI&theme=tokyonight&margin-w=8" />
-</p>
-
----
-
 ## 🐍 Contribution Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/github-contribution-grid-snake.svg" />
