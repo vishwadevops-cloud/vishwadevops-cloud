@@ -67,8 +67,9 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 
 ## 📍 Visitor Count
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=VISHWA-SANTHI&label=Profile Views&labelColor=%231abc9c&countColor=%23ffffff&style=for-the-badge" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=VISHWA-SANTHI&style=flat&countColor=%23000000&labelColor=%23ffffff" />
 </p>
+
 
 ---
 
