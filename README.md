@@ -104,9 +104,15 @@ A fully automated **event-driven log monitoring & alerting pipeline** on AWS tha
 
 ---
 
-# 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake Animation
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vishwadevops-cloud/vishwadevops-cloud/output/github-snake.svg" width="100%" />
+
+  <!-- Light Mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwadevops-cloud/VISHWA-SANTHI/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/vishwadevops-cloud/VISHWA-SANTHI/output/github-snake.svg" alt="github snake animation" />
+  </picture>
+
 </div>
 
 ---
