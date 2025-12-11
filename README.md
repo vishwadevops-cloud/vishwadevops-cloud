@@ -39,14 +39,15 @@ A fully automated **event-driven log monitoring & alerting pipeline** on AWS tha
 ---
 
 ## ⚙ Project Highlights
-<center>| Feature | Description |
+<p align="center">
+| Feature | Description |
 |--------|-------------|
 | 🔍 Real-time Log Streaming | Application logs from EC2 pushed to CloudWatch |
 | ⚠ Error Detection | CloudWatch Metric Filters detect `ERROR` patterns |
 | 🚨 Instant Alerting | SNS sends email notifications to DevOps team |
 | 🐍 Failure Simulation | Python script used for stress-testing alerts |
-| 💾 Cost Optimization | S3 Lifecycle → Glacier archival for old logs |</center>
-
+| 💾 Cost Optimization | S3 Lifecycle → Glacier archival for old logs |
+</p>
 ---
 
 ## 📸 Output Screenshots
